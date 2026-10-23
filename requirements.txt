@@ -1,0 +1,14 @@
+# Library yang dipakai di proyek ini
+# Install dengan: pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.11
+
+# Untuk data tren Google Trends (Pertanyaan 6)
+pytrends>=4.9
+
+# Opsional: mengunduh dataset Kaggle langsung dari notebook
+kagglehub>=0.2

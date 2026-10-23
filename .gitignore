@@ -1,0 +1,19 @@
+# ===== Data mentah: jangan di-commit (ukuran besar / lisensi) =====
+data/raw/*
+!data/raw/.gitkeep
+
+# ===== File sementara =====
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+Thumbs.db
+
+# ===== Script bantu untuk membangun notebook =====
+build/
+
+# ===== Kredensial (JANGAN pernah di-commit) =====
+.env
+kaggle.json
+cookies.txt
