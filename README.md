@@ -24,7 +24,7 @@ anggaran promo paling efektif dibelanjakan — dan di mana justru sia-sia.
 
 ---
 
-## ❓ Pertanyaan Bisnis
+## Pertanyaan Bisnis
 
 | # | Pertanyaan | Jawaban |
 |---|---|---|
@@ -37,7 +37,7 @@ anggaran promo paling efektif dibelanjakan — dan di mana justru sia-sia.
 
 ---
 
-## 🗃️ Sumber Data
+## Sumber Data
 
 | Dataset | Isi | Tahun | Lisensi | Link |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ anggaran promo paling efektif dibelanjakan — dan di mana justru sia-sia.
 5. **Analisis** — statistik deskriptif + **median** (bukan rata-rata) + **Spearman** + **Cliff's delta**
    (untuk ukuran efek sensitivitas promo) + **Mann-Whitney / Kruskal-Wallis** (uji signifikansi).
 
-### ⚠️ Batasan yang diakui sejak awal
+### Batasan yang diakui sejak awal
 
 - **`jumlah terjual` adalah proxy**, bukan laporan penjualan resmi. Tokopedia hanya
   menampilkan angka kasar ("1rb+ terjual").
@@ -73,23 +73,11 @@ anggaran promo paling efektif dibelanjakan — dan di mana justru sia-sia.
 
 ---
 
-## 📁 Struktur Repo
 
-```
-.
-├── notebook/
-│   └── Tokopedia_Ecommerce_Analysis.ipynb   # notebook utama (Colab-ready)
-├── data/
-│   ├── raw/                                 # data mentah (tidak di-commit)
-│   └── processed/                           # data bersih hasil cleaning
-├── images/                                  # grafik untuk README
-├── requirements.txt
-└── README.md
-```
 
 ---
 
-## 📊 Temuan Utama
+## Temuan Utama
 
 ### Q1. Kategori Produk Terlaris
 
@@ -221,7 +209,7 @@ Cliff's delta = peluang produk berdiskon lebih laku dari produk tanpa diskon.
 
 ---
 
-## 💡 Rekomendasi Praktis (Untuk Penjual)
+## Rekomendasi Praktis (Untuk Penjual)
 
 1. **Kategori "Hero Product" (Kecantikan, Perawatan Hewan, ATK):** Fokus 1–2 produk unggulan,
    diskon 10–30%, naikkan budget iklan 11.11/12.12. Sisanya harga normal.
@@ -239,7 +227,7 @@ Cliff's delta = peluang produk berdiskon lebih laku dari produk tanpa diskon.
 
 ---
 
-## 👤 Penulis
+## Penulis
 
 **Imanuel R.**
 [GitHub](https://github.com/imanuelrpt) · [LinkedIn](https://linkedin.com/in/imanuelrpt)
