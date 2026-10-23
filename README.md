@@ -26,7 +26,7 @@ anggaran promo paling efektif dibelanjakan — dan di mana justru sia-sia.
 
 ## ❓ Pertanyaan Bisnis
 
-| # | Pertanyaan | Dijawab dengan |
+| # | Pertanyaan | Jawaban |
 |---|---|---|
 | 1 | Kategori produk apa yang paling banyak terjual? | Total & median `terjual` per kategori + konsentrasi top-5 |
 | 2 | Di rentang harga berapa produk paling laku? | Kelompok harga vs median terjual + heatmap per kategori |
