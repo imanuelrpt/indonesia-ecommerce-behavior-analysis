@@ -1,4 +1,4 @@
-# 🛍️ Analisis Perilaku Belanja Online Orang Indonesia di E-Commerce (Tokopedia)
+# Analisis Perilaku Belanja Online Orang Indonesia di E-Commerce (Tokopedia)
 
 **Produk Terlaris & Pengaruh Promo** — sebuah analisis data eksploratif dengan Python.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Latar Belakang
+## Latar Belakang
 
 E-commerce sudah jadi bagian sehari-hari orang Indonesia. Setiap Harbolnas, 11.11, dan 12.12,
 halaman utama marketplace dipenuhi banner diskon. Tapi pertanyaannya:
